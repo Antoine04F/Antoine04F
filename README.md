@@ -9,7 +9,9 @@
 </a>
 </div>
 
-## Mes competences en Data ⚙️
+## Mes competences en Data 📊
+
+
 
 <table>
   <tr>
