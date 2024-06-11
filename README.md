@@ -59,12 +59,3 @@
 ## 📊 Mes Projets 
 
 
-
-
-
-
-
-
-
-
-<img src = "Image/WuBj.gif" width="4000" height="200" />
