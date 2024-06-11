@@ -1,24 +1,6 @@
 <img src ="Image/baniere.jpeg"/>
-
-<table align = "center">
-  <tr>
-    <td>
-  <p align="justify">
-  👋 Bonjour et bienvenue sur mon profil GitHub ! 👋
-
-  Je m'appelle Antoine et je suis passionné par l'analyse de données. 
-
-  Mon objectif est de transformer les données en informations exploitables pour aider les entreprises à prendre des décisions éclairées.
-
-  Vous trouverez mes travaux effectués en parcourant mon Github 🤠 
-  </p>
-  </td>
-    <td>
-    <img src ="Image/database.gif" width="250" height="200" />
-    </td>
-  </tr>
-</table>
-
+<p></p>
+<img src = "Image/baniere_gif.gif">
 
 <div align="center">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
