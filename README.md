@@ -9,7 +9,7 @@
 </a>
 </div>
 
-## Mes competences en Data ⚙️
+## ⚙️ Mes competences en Data 
 
 
 
@@ -55,4 +55,4 @@
  </tr>
 </table>
   
-## Github stats 📊
+## 📊 Mes Projets 
