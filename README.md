@@ -3,7 +3,7 @@
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
   <div style="flex: 1; min-width: 200px; margin-right: 20px;">
     <p align="justify">
-      👋 Bonjour et bienvenue sur mon profil GitHub ! 👋<br><br>
+      👋Bonjour et bienvenue sur mon profil GitHub !👋<br><br>
       Je m'appelle Antoine et je suis passionné par l'analyse de données.<br><br>
       Mon objectif est de transformer les données en informations exploitables pour aider les entreprises à prendre des décisions éclairées.<br><br>
       Vous trouverez mes travaux effectués en parcourant mon Github 🤠 
