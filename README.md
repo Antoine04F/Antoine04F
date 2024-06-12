@@ -13,47 +13,30 @@
 
 
 ## ⚙️ Mes competences en Data 
-<table>
-  <tr>
-    <td align="center" width="100">
-      <a href="#macropower-tech">
-        <img src="Image/App logo/Excel.png" alt="icon" />
-      </a>
-      <br>Excel
-    </td>
-    <td align="center" width="100">
-      <a href="#macropower-tech">
-       <img src="Image/App logo/Tableau.png" alt="icon" />
-      </a>
-      <br>Tableau
-    </td>
-    <td align="center" width="100">
-      <a href="#macropower-tech">
-       <img src="Image/App logo/Python.png" alt="icon" />
-      </a>
-      <br>Pyhton
-    </td>
-        <td align="center" width="100">
-      <a href="#macropower-tech">
-       <img src="Image/App logo/Knime.png" alt="icon" />
-      </a>
-      <br>Knime
-    </td>
-        <td align="center" width="100">
-      <a href="#macropower-tech">
-       <img src="Image/App logo/Git.png" alt="icon" />
-      </a>
-      <br>Git
-    </td>
-        <td align="center" width="100">
-      <a href="#macropower-tech">
-       <img src="Image/App logo/Powerbi.png" alt="icon" />
-      </a>
-      <br>Powerbi
-    </td>
-    
- </tr>
-</table>
+<div style="display: inline_block"><br>
+
+<h3>Languages</h3>
+  <img align="center" alt="Icon-Python" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="Icon-Matplotlib" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg">
+  <img align="center" alt="Icon-Numpy" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Icon-Pandas" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
+  <br><br>
+  
+<h3>Data Analysis Tools</h3>
+  <img align="center" alt="Icon-Excel" height="40" width="54" src="https://img.icons8.com/?size=100&id=BEMhRoRy403e&format=png&color=000000">
+  <img align="center" alt="Icon-Tableau" height="40" width="54" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000)l)">
+  <br><br>
+  
+<h3>Databases</h3>
+  <img align="center" alt="Icon-MySQL" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Icon-UML" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg">
+  <br><br>
+
+<h3>Tools</h3>
+  <img align="center" alt="Icon-Anaconda" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg">
+  <img align="center" alt="Icon-Git" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <br><br>
+</div>
 
 
   
@@ -62,8 +45,14 @@
 
 
 <!--Footer--> 
+<table>
+  <tr>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=75&color=4A4AC4&section=footer&reversal=false"/>
 </p>
-
-
+          
+                                                  
+          
+          
+          
+          
