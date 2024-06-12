@@ -13,8 +13,7 @@
 
 
 ## ⚙️ Mes competences en Data 
-<div style="display: inline_block"><br>
-
+<div style="display: inline_block">
 <h3>Languages</h3>
 <table>
   <tr>
@@ -97,14 +96,6 @@
       <br>jupyter
     </td>
     </table>
-  <br><br>
-
-
-  
-  
-  
-          
-  <br><br>
 </div>
 
 
