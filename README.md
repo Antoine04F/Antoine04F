@@ -35,6 +35,8 @@
 <h3>Tools</h3>
   <img align="center" alt="Icon-Anaconda" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg">
   <img align="center" alt="Icon-Git" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center" alt="Icon-Git" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">
+          
   <br><br>
 </div>
 
