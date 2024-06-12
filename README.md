@@ -11,57 +11,78 @@
 </div>
 
 
+
 ## ⚙️ Mes competences en Data 
-<div style="overflow-x: auto; white-space: nowrap;">
-  <div style="display: inline-block; margin-right: 20px;">
-    <a href="#macropower-tech">
-      <img src="Image/App logo/Excel.png" alt="Excel" style="width: 100px; height: 100px;">
-    </a>
-    <p align="center">Excel</p>
-  </div>
-  <div style="display: inline-block; margin-right: 20px;">
-    <a href="#macropower-tech">
-      <img src="Image/App logo/Tableau.png" alt="Tableau" style="width: 100px; height: 100px;">
-    </a>
-    <p align="center">Tableau</p>
-  </div>
-  <div style="display: inline-block; margin-right: 20px;">
-    <a href="#macropower-tech">
-      <img src="Image/App logo/Python.png" alt="Python" style="width: 100px; height: 100px;">
-    </a>
-    <p align="center">Python</p>
-  </div>
-  <div style="display: inline-block; margin-right: 20px;">
-    <a href="#macropower-tech">
-      <img src="Image/App logo/Knime.png" alt="Knime" style="width: 100px; height: 100px;">
-    </a>
-    <p align="center">Knime</p>
-  </div>
-  <div style="display: inline-block; margin-right: 20px;">
-    <a href="#macropower-tech">
-      <img src="Image/App logo/Git.png" alt="Git" style="width: 100px; height: 100px;">
-    </a>
-    <p align="center">Git</p>
-  </div>
-  <div style="display: inline-block; margin-right: 20px;">
-    <a href="#macropower-tech">
-      <img src="Image/App logo/Powerbi.png" alt="Powerbi" style="width: 100px; height: 100px;">
-    </a>
-    <p align="center">Powerbi</p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img src="Image/App logo/Excel.png" alt="icon" />
+      </a>
+      <br>Excel
+    </td>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+       <img src="Image/App logo/Tableau.png" alt="icon" />
+      </a>
+      <br>Tableau
+    </td>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+       <img src="Image/App logo/Python.png" alt="icon" />
+      </a>
+      <br>Pyhton
+    </td>
+        <td align="center" width="100">
+      <a href="#macropower-tech">
+       <img src="Image/App logo/Knime.png" alt="icon" />
+      </a>
+      <br>Knime
+    </td>
+        <td align="center" width="100">
+      <a href="#macropower-tech">
+       <img src="Image/App logo/Git.png" alt="icon" />
+      </a>
+      <br>Git
+    </td>
+        <td align="center" width="100">
+      <a href="#macropower-tech">
+       <img src="Image/App logo/Powerbi.png" alt="icon" />
+      </a>
+      <br>Powerbi
+    </td>
+    
+ </tr>
+</table>
 
 
   
 ## 📊 Mes Projets 
 
 
+<div align="center" id="technologies">
+
+<img src="https://img.shields.io/badge/python-%23121011.svg?style=for-the-badge&logo=python" alt="Python"/>
+<img src="https://img.shields.io/badge/svelte-%23121011.svg?style=for-the-badge&logo=mysql" alt="mysql"/>
+<img src="https://img.shields.io/badge/node.js-%23121011.svg?style=for-the-badge&logo=numpy" alt="numpy"/>
+<img src="https://img.shields.io/badge/node.js-%23121011.svg?style=for-the-badge&logo=anaconda" alt="anaconda"/>
+<img src="https://img.shields.io/badge/node.js-%23121011.svg?style=for-the-badge&logo=git" alt="git"/>
+<img src="https://img.shields.io/badge/node.js-%23121011.svg?style=for-the-badge&logo=matplotlib" alt="matplotlib"/>
+<img src="https://img.shields.io/badge/node.js-%23121011.svg?style=for-the-badge&logo=pandas" alt="pandas"/>
+<img src="https://img.shields.io/badge/node.js-%23121011.svg?style=for-the-badge&logo=plotly" alt="plotly"/>
+<img src="https://img.shields.io/badge/node.js-%23121011.svg?style=for-the-badge&logo=unifiedmodelinglanguage" alt="unifiedmodelinglanguage"/>
+
+
+          
+</div>
+          
+
 
 
 
 <!--Footer--> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=75&color=4A4AC4&section=footer&reversal=false"/>
 </p>
 
 
