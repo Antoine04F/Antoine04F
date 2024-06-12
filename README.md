@@ -16,26 +16,93 @@
 <div style="display: inline_block"><br>
 
 <h3>Languages</h3>
-  <img align="center" alt="Icon-Python" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="Icon-Matplotlib" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg">
-  <img align="center" alt="Icon-Numpy" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Icon-Pandas" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
-  <br><br>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img align="center" alt="Icon-Python" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+      </a>
+      <br>python
+    </td>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+       <img align="center" alt="Icon-Matplotlib" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg">
+      </a>
+      <br>matplotlib
+    </td>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+       <img align="center" alt="Icon-Numpy" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
+      </a>
+      <br>numpy
+    </td>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+       <img align="center" alt="Icon-Pandas" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
+      </a>
+      <br>pandas
+    </td>
+  </table> 
   
 <h3>Data Analysis Tools</h3>
-  <img align="center" alt="Icon-Excel" height="40" width="54" src="https://img.icons8.com/?size=100&id=BEMhRoRy403e&format=png&color=000000">
-  <img align="center" alt="Icon-Tableau" height="40" width="54" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000)l)">
-  <br><br>
-  
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img align="center" alt="Icon-Excel" height="40" width="54" src="https://img.icons8.com/?size=100&id=BEMhRoRy403e&format=png&color=000000">
+      </a>
+      <br>Excel
+    </td>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+       <img align="center" alt="Icon-Tableau" height="40" width="54" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000)l)">
+      </a>
+      <br>Tableau
+    </table>
+ 
 <h3>Databases</h3>
-  <img align="center" alt="Icon-MySQL" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Icon-UML" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg">
-  <br><br>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img align="center" alt="Icon-MySQL" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+      </a>
+      <br>Mysql
+    </td>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+       <img align="center" alt="Icon-UML" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg">
+      </a>
+      <br>UML
+    </table>
 
 <h3>Tools</h3>
-  <img align="center" alt="Icon-Anaconda" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg">
-  <img align="center" alt="Icon-Git" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img align="center" alt="Icon-Git" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img align="center" alt="Icon-Anaconda" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg">
+      </a>
+      <br>Anaconda
+    </td>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+       <img align="center" alt="Icon-Git" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+      </a>
+      <br>Git
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+       <img align="center" alt="Icon-jupyter" height="40" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">
+      </a>
+      <br>jupyter
+    </td>
+    </table>
+  <br><br>
+
+
+  
+  
+  
           
   <br><br>
 </div>
@@ -43,7 +110,6 @@
 
   
 ## 📊 Mes Projets 
-
 
 
 <!--Footer--> 
