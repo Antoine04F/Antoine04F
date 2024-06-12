@@ -60,25 +60,6 @@
 ## 📊 Mes Projets 
 
 
-<div align="center" id="technologies">
-
-<img src="https://img.shields.io/badge/python-%23121011.svg?style=for-the-badge&logo=python" alt="Python"/>
-<img src="https://img.shields.io/badge/svelte-%23121011.svg?style=for-the-badge&logo=mysql" alt="mysql"/>
-<img src="https://img.shields.io/badge/node.js-%23121011.svg?style=for-the-badge&logo=numpy" alt="numpy"/>
-<img src="https://img.shields.io/badge/node.js-%23121011.svg?style=for-the-badge&logo=anaconda" alt="anaconda"/>
-<img src="https://img.shields.io/badge/node.js-%23121011.svg?style=for-the-badge&logo=git" alt="git"/>
-<img src="https://img.shields.io/badge/node.js-%23121011.svg?style=for-the-badge&logo=matplotlib" alt="matplotlib"/>
-<img src="https://img.shields.io/badge/node.js-%23121011.svg?style=for-the-badge&logo=pandas" alt="pandas"/>
-<img src="https://img.shields.io/badge/node.js-%23121011.svg?style=for-the-badge&logo=plotly" alt="plotly"/>
-<img src="https://img.shields.io/badge/node.js-%23121011.svg?style=for-the-badge&logo=unifiedmodelinglanguage" alt="unifiedmodelinglanguage"/>
-
-
-          
-</div>
-          
-
-
-
 
 <!--Footer--> 
 <p align="center">
