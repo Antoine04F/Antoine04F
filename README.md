@@ -11,7 +11,7 @@
 </div>
 <br>
 
-<img src ="Image/My skills.jpeg"/> 
+<img src ="Image/My Skills.jpeg"/> 
 
 ## ⚙️ My skills in Data 
 <div style="display: inline_block">
@@ -102,7 +102,7 @@
 
 <img src ="Image/My projects.jpeg"/> 
 
-## 📊 Mes Projets 
+## 📊 My Projects 
 
 
 <!--Footer--> 
