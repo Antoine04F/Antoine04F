@@ -104,6 +104,12 @@
 
 ## 📊 My Projects 
 
+<table>
+<tr><td><a href="https://github.com/Antoine04F/Projet_JO_2024"><img width="140px" src="https://presse.paris2024.org/themes/redcurrentsredcurrents/olympics-games/images/assets/paris2024_logo_v2.gif"></a></td>
+</table>
+
+
+
 
 <!--Footer--> 
 <table>
