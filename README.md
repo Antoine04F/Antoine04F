@@ -1,6 +1,31 @@
 <img src ="Image/baniere.jpeg"/>
 <p></p>
-<img src = "Image/baniere_gif.gif">
+
+---
+
+<!--Night Owl image-->
+<div style="display: flex; align-items: center;">
+  <img align="right" width="30%" src="Image/database.gif" >
+  
+  <!--Start Intro-->               
+  <p align="center">
+    👋 Bonjour et bienvenue sur mon profil GitHub ! 👋<br>
+ </p>
+  Je m'appelle Antoine et je suis passionné par l'analyse de données.
+    
+  Mon objectif est de transformer les données en informations exploitables<br>
+  et aider à prendre des décisions éclairées.
+  
+  Explorez mes projets pour découvrir mon travail en détail.<br>
+  J'espère qu'ils vous inspireront autant que j'ai aimé les créer. 🤠
+  
+  
+  <!--End Intro-->
+</div>
+<br>
+<br>
+
+---
 
 
 <div align="center">
@@ -107,6 +132,14 @@
 <table>
 <tr><td><a href="https://github.com/Antoine04F/Projet_JO_2024"><img width="140px" src="https://presse.paris2024.org/themes/redcurrentsredcurrents/olympics-games/images/assets/paris2024_logo_v2.gif"></a></td>
 </table>
+
+
+
+
+
+
+
+
 
 
 
