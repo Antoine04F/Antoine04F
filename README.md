@@ -39,6 +39,7 @@
 <img src ="Image/My Skills.jpeg"/> 
 
 ## ⚙️ My skills in Data 
+ <img align="right" width="30%" src="Image/gif_skills.gif" > 
 <div style="display: inline_block">
 <h3>Languages</h3>
 <table>
