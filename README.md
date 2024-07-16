@@ -5,7 +5,7 @@
 
 <!--Night Owl image-->
 <div style="display: flex; align-items: center;">
-  <img align="right" width="30%" src="Image/database.gif" >
+  <img align="right" width="20%" src="Image/image_presentation.png" >
   
   <!--Start Intro-->               
   <p align="center">
